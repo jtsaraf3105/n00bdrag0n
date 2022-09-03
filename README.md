@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @n00bdrag0n
+- 👋 Hi, I’m Jatin Saraf.
 - 👀 I’m interested in Gaming, Coding and Media Editings.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning C++ along with some Graphic Designing.
 - 📫 How to reach me ... jtsaraf3105@gmail.com
 
 <!---
